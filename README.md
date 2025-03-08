@@ -13,13 +13,13 @@ I’m passionate about defending the digital world! I’m currently completing a
 - 🛡️ **Threat Detection & SIEM**: Experience with log analysis and monitoring tools to identify security risks.  
 - 🔍 **Digital Forensics**: Hands-on work with **FTK Imager** and **Autopsy** to conduct in-depth investigations and evidence collection.  
 - 🔒 **Penetration Testing**: Familiar with **Kali Linux**, **Metasploit**, **Nmap**, and conducting vulnerability scans.  
-- ⚙️ **Scripting & Automation**: Knowledge of **Python**, **Bash**, and **PowerShell** for automating security tasks and data analysis.  
+- ⚙️ **Scripting & Automation**: Foundational knowledge of **Python** and **PowerShell** for automating security tasks and data analysis.  
 - 🤝 **Collaboration & Leadership**: Proven ability to work effectively in teams, lead projects, and solve complex problems.  
 
 ---
 
 ## 📜 Certifications in Progress  
-- 🛡️ **Blue Team Junior Analyst**  
+- 🛡️ **Blue Team Junior Analyst**:   
 - 🛡️ **Blue Team Level 1**  
 - 🔐 **CompTIA Security+**  
 - 🌐 **CompTIA Network+**  
@@ -32,7 +32,8 @@ I’m passionate about defending the digital world! I’m currently completing a
 ---
 
 ## 🌟 Projects  
-- **Security Blue Team Labs**: Practiced **malware analysis**, **SIEM monitoring**, and **phishing investigations**.  
+- **Security Blue Team Labs**: Practiced **malware analysis**, **SIEM monitoring**, and **phishing investigations**.
+- **Forage CBA Job Simulation**: Implemented security practices using **splunk**, focusing on **incident response** and **fraud detection**. 
 - **Digital Forensics Investigations**: Used **Autopsy** and **FTK Imager** for analyzing file systems, recovering deleted data, and identifying security incidents.  
 - **Kali Linux Penetration Testing**: Conducted vulnerability assessments using **Metasploit**, **Nmap**, and other penetration testing tools.  
 
