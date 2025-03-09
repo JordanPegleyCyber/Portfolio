@@ -19,7 +19,7 @@ I’m passionate about defending the digital world! I’m currently completing a
 ---
 
 ## 📜 Certifications in Progress  
-- 🛡️ **Blue Team Junior Analyst**:   
+- 🛡️ **Blue Team Junior Analyst**  
 - 🛡️ **Blue Team Level 1**  
 - 🔐 **CompTIA Security+**  
 - 🌐 **CompTIA Network+**  
@@ -33,8 +33,7 @@ I’m passionate about defending the digital world! I’m currently completing a
 
 ## 🔥 CTF Walkthroughs & Security Research  
 
-- [HTB Walkthrough: SideClimber](https://github.com/JordanPegleyCyber/HTB_Walkthrough_SideClimber/blob/main/Machine%20Side%20Climber.md)  
-📌 **Detailed penetration testing methodology** for the SideClimber machine on Hack The Box.
+- [**HTB Walkthrough: SideClimber**](https://github.com/JordanPegleyCyber/HTB_Walkthrough_SideClimber/blob/main/Machine%20Side%20Climber.md): Detailed penetration testing methodology for the SideClimber machine on Hack The Box.
 - **Security Blue Team Labs**: Practiced **malware analysis**, **SIEM monitoring**, and **phishing investigations**.
 - **Forage CBA Job Simulation**: Implemented security practices using **splunk**, focusing on **incident response** and **fraud detection**.
   [**Pentest Walkthrough of Hack this Site: Basic**](https://github.com/JordanPegleyCyber/Pentest_HackThisSite_Basic/blob/main/Pentest_Walkthrough_HTS.md)
