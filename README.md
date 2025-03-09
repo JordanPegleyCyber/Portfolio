@@ -33,7 +33,9 @@ I’m passionate about defending the digital world! I’m currently completing a
 
 ## 🔥 CTF Walkthroughs & Security Research  
 
-- [**HTB Walkthrough: SideClimber**] (https://github.com/JordanPegleyCyber/HTB_Walkthrough_SideClimber/blob/main/Machine%20Side%20Climber.md): Detailed penetration testing methodology for the SideClimber machine on Hack The Box.  
+- [![HTB Walkthrough: SideClimber](https://img.shields.io/badge/GitHub-HTB_Walkthrough_SideClimber-blue?style=flat&logo=github)](https://github.com/JordanPegleyCyber/HTB_Walkthrough_SideClimber/blob/main/Machine%20Side%20Climber.md)  
+📌 **Detailed penetration testing methodology** for the SideClimber machine on Hack The Box.
+
 - **Security Blue Team Labs**: Practiced **malware analysis**, **SIEM monitoring**, and **phishing investigations**.
 - **Forage CBA Job Simulation**: Implemented security practices using **splunk**, focusing on **incident response** and **fraud detection**. 
 - **Digital Forensics Investigations**: Used **Autopsy** and **FTK Imager** for analyzing file systems, recovering deleted data, and identifying security incidents.  
