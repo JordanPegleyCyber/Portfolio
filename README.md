@@ -37,7 +37,7 @@ I’m passionate about defending the digital world! I’m currently completing a
 📌 **Detailed penetration testing methodology** for the SideClimber machine on Hack The Box.
 
 - **Security Blue Team Labs**: Practiced **malware analysis**, **SIEM monitoring**, and **phishing investigations**.
-- **Forage CBA Job Simulation**: Implemented security practices using **splunk**, focusing on **incident response** and **fraud detection**, [**pentested Hack this Site**](https://github.com/JordanPegleyCyber/Pentest_HackThisSite_Basic/blob/main/Pentest_Walkthrough_HTS.md) and documented a [**Pentest Report**](https://github.com/JordanPegleyCyber/Walkthrough_HackThisSite](https://github.com/JordanPegleyCyber/Pentest_Report_HTS).
+- **Forage CBA Job Simulation**: Implemented security practices using **splunk**, focusing on **incident response** and **fraud detection**, [**Pentested Hack this Site**](https://github.com/JordanPegleyCyber/Pentest_HackThisSite_Basic/blob/main/Pentest_Walkthrough_HTS.md) and documented a [**Pentest Report**](https://github.com/JordanPegleyCyber/Pentest_Report_HTS).
 - 
 - **Digital Forensics Investigations**: Used **Autopsy** and **FTK Imager** for analyzing file systems, recovering deleted data, and identifying security incidents.  
 - **Kali Linux Penetration Testing**: Conducted vulnerability assessments using **Metasploit**, **Nmap**, and other penetration testing tools.  
