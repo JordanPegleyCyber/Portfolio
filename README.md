@@ -33,14 +33,17 @@ I’m passionate about defending the digital world! I’m currently completing a
 
 ## 🔥 CTF Walkthroughs & Security Research  
 
-- [![HTB Walkthrough: SideClimber](https://img.shields.io/badge/GitHub-HTB_Walkthrough_SideClimber-blue?style=flat&logo=github)](https://github.com/JordanPegleyCyber/HTB_Walkthrough_SideClimber/blob/main/Machine%20Side%20Climber.md)  
+- [HTB Walkthrough: SideClimber](https://github.com/JordanPegleyCyber/HTB_Walkthrough_SideClimber/blob/main/Machine%20Side%20Climber.md)  
 📌 **Detailed penetration testing methodology** for the SideClimber machine on Hack The Box.
-
 - **Security Blue Team Labs**: Practiced **malware analysis**, **SIEM monitoring**, and **phishing investigations**.
-- **Forage CBA Job Simulation**: Implemented security practices using **splunk**, focusing on **incident response** and **fraud detection**, [**Pentested Hack this Site**](https://github.com/JordanPegleyCyber/Pentest_HackThisSite_Basic/blob/main/Pentest_Walkthrough_HTS.md) and documented a [**Pentest Report**](https://github.com/JordanPegleyCyber/Pentest_Report_HTS).
-- 
+- **Forage CBA Job Simulation**: Implemented security practices using **splunk**, focusing on **incident response** and **fraud detection**.
+  [**Pentest Walkthrough of Hack this Site: Basic**](https://github.com/JordanPegleyCyber/Pentest_HackThisSite_Basic/blob/main/Pentest_Walkthrough_HTS.md)
+  [**Pentest Report of Hack this Site**](https://github.com/JordanPegleyCyber/Pentest_Report_HTS)
 - **Digital Forensics Investigations**: Used **Autopsy** and **FTK Imager** for analyzing file systems, recovering deleted data, and identifying security incidents.  
-- **Kali Linux Penetration Testing**: Conducted vulnerability assessments using **Metasploit**, **Nmap**, and other penetration testing tools.  
+- **Kali Linux Penetration Testing**: Conducted vulnerability assessments using **Metasploit**, **Nmap**, and other penetration testing tools.
+- **OWASP Juice Shop Penetration Testing:** Conducted a comprehensive security assessment of the OWASP Juice Shop application, identifying vulnerabilities such as Cross-Site Scripting (XSS), SQL Injection, and Broken Authentication using tools like Burp Suite and OWASP ZAP. Leveraged manual and automated techniques to exploit security flaws and provide recommendations for remediation.
+  [**Juice Shop: Pentest Vulnerabilities Report**](https://github.com/JordanPegleyCyber/Juice-Shop-Pentest-Vulnerabilities-Report/blob/main/Juice%20Shop%20Vulnerabilities.md)
+  [**Juice Shop: Pentest Report**](https://github.com/JordanPegleyCyber/Juice-Shop-Pentest-Report/blob/main/README.md)
 
 ---
 
