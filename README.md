@@ -51,8 +51,11 @@ I’m passionate about defending the digital world! I’m currently completing a
 
 - **Digital Forensics Investigations**: Used **Autopsy** and **FTK Imager** for analyzing file systems, recovering deleted data, and identifying security incidents.  
 - **Kali Linux Penetration Testing**: Conducted vulnerability assessments using **Metasploit**, **Nmap**, and other penetration testing tools.
+---
 - Research Case Studies:
-  Bug Bounties: The Exploit Purchase Ecosystem
+  
+  [Bug Bounties: The Exploit Purchase Ecosystem](https://github.com/JordanPegleyCyber/Bug-Bounties-the-exploit-purchase-ecosystem/edit/main/README.md)
+  
   Trusted Insiders
   Honey Pots
   Hack Back
