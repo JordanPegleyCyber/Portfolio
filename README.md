@@ -66,7 +66,7 @@ I’m passionate about defending the digital world! I’m currently completing a
   
   [Cambridge Analytica: privacy & user mechanics](https://github.com/JordanPegleyCyber/Cambridge-Analytica-privacy-user-mechanics/blob/main/README.md)
   
-  Vastaamo: an analysis on data privacy
+  [Vastaamo: An Analysis on Data Privacy](https://github.com/JordanPegleyCyber/Vastaamo-an-analysis-on-data-privacy/blob/main/README.md)
   
   AI & the Justice System
   
