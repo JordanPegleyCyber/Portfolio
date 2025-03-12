@@ -13,21 +13,22 @@ I’m passionate about defending the digital world! I’m currently completing a
 - 🛡️ **Threat Detection & SIEM**: Experience with log analysis and monitoring tools to identify security risks.  
 - 🔍 **Digital Forensics**: Hands-on work with **FTK Imager** and **Autopsy** to conduct in-depth investigations and evidence collection.  
 - 🔒 **Penetration Testing**: Familiar with **Kali Linux**, **Metasploit**, **Nmap**, and conducting vulnerability scans.  
-- ⚙️ **Scripting & Automation**: Foundational knowledge of **Python** and **PowerShell** for automating security tasks and data analysis.  
-- 🤝 **Collaboration & Leadership**: Proven ability to work effectively in teams, lead projects, and solve complex problems.  
+- ⚙️ **Programming**: Foundational knowledge of **Python**, **C** and **Assembly** for navigating data analysis and security tasks.   
+- 🤝 **Collaboration & Leadership**: Proven ability to work effectively in teams, lead projects, develop training programs and solve complex problems.  
 
 ---
 
 ## 📜 Certifications in Progress  
-- 🛡️ **Blue Team Junior Analyst**  
-- 🛡️ **Blue Team Level 1**  
+- 🛡️ **Security Blue Team Junior Analyst**: March 2025
+- 🛡️ **Security Blue Team Level 1**: May 2025
+## 📜 Certifications in Future
 - 🔐 **CompTIA Security+**  
 - 🌐 **CompTIA Network+**  
 
 ---
 
 ## 🎓 Education  
-**Master’s in Cyber Security** – UNSW (2023– May 2025, Distinction Average)  
+**Master’s in Cyber Security: Security Engineering** – UNSW (2023– May 2025, Distinction Average)  
 
 ---
 
@@ -51,6 +52,7 @@ I’m passionate about defending the digital world! I’m currently completing a
 
 - **Digital Forensics Investigations**: Used **Autopsy** and **FTK Imager** for analyzing file systems, recovering deleted data, and identifying security incidents.  
 - **Kali Linux Penetration Testing**: Conducted vulnerability assessments using **Metasploit**, **Nmap**, and other penetration testing tools.
+- **OS Project Modules via HTB**: Focus on vulnerabilities and artifacts within **Active Directory**, **Windows Event Viewer**, and memory exploits via **Volatility**. 
 ---
 - Research Case Studies:
   
