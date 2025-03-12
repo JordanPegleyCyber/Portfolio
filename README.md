@@ -64,7 +64,7 @@ I’m passionate about defending the digital world! I’m currently completing a
   
   [Hack Back](https://github.com/JordanPegleyCyber/Hack-Back/blob/main/README.md)
   
-  Cambridge Analytica: privacy & user mechanics
+  [Cambridge Analytica: privacy & user mechanics](https://github.com/JordanPegleyCyber/Cambridge-Analytica-privacy-user-mechanics/blob/main/README.md)
   
   Vastaamo: an analysis on data privacy
   
