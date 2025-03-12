@@ -68,7 +68,7 @@ I’m passionate about defending the digital world! I’m currently completing a
   
   [Vastaamo: An Analysis on Data Privacy](https://github.com/JordanPegleyCyber/Vastaamo-an-analysis-on-data-privacy/blob/main/README.md)
   
-  AI & the Justice System
+  [AI & the Justice System](https://github.com/JordanPegleyCyber/AI-the-Justice-System/blob/main/README.md)
   
   Autonomous Vehicles & the Trolley Problem
   
