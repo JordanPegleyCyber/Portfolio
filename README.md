@@ -58,13 +58,20 @@ I’m passionate about defending the digital world! I’m currently completing a
   
   [Bug Bounties: The Exploit Purchase Ecosystem](https://github.com/JordanPegleyCyber/Bug-Bounties-the-exploit-purchase-ecosystem/edit/main/README.md)
   
-  Trusted Insiders
+  [Trusted Insiders](https://github.com/JordanPegleyCyber/Trusted-Insiders/blob/main/README.md)
+  
   Honey Pots
+  
   Hack Back
+  
   Cambridge Analytica: privacy & user mechanics
+  
   Vastaamo: an analysis on data privacy
+  
   AI & the Justice System
+  
   Autonomous Vehicles & the Trolley Problem
+  
 
 
 ---
