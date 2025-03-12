@@ -60,7 +60,7 @@ I’m passionate about defending the digital world! I’m currently completing a
   
   [Trusted Insiders](https://github.com/JordanPegleyCyber/Trusted-Insiders/blob/main/README.md)
   
-  Honey Pots
+  [Honey Pots, nets & flies](https://github.com/JordanPegleyCyber/Honey-Pots/blob/main/README.md)
   
   Hack Back
   
