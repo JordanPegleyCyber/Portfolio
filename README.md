@@ -46,7 +46,7 @@ I’m passionate about defending the digital world! I’m currently completing a
   
   [**Juice Shop: Pentest Report**](https://github.com/JordanPegleyCyber/Juice-Shop-Pentest-Report/blob/main/README.md)
 
-
+- [**HTB Walkthrough: OBJECT(Windows Hard)**](https://github.com/JordanPegleyCyber/HTB_Object_Walkthrough/blob/main/HTB%20Machine%20014100A1%3D%20Object.md): Detailed penetration testing methodology for the retired hard windows Object machine on Hack The Box.
 - [**HTB Walkthrough: SideClimber**](https://github.com/JordanPegleyCyber/HTB_Walkthrough_SideClimber/blob/main/Machine%20Side%20Climber.md): Detailed penetration testing methodology for the SideClimber machine on Hack The Box.
 - **Security Blue Team Labs**: Practiced **malware analysis**, **SIEM monitoring**, and **phishing investigations**.
 
