@@ -5,13 +5,13 @@
 ---
 
 ## 🤖 About Me  
-I’m passionate about defending the digital world! I’m currently completing a Master’s in Cyber Security at UNSW, specialising in **threat detection**, **SIEM monitoring**, and **digital forensics**. With hands-on experience in tackling security challenges and a focus on real-world solutions, I’m working towards making an impact in SOC operations and incident response.  
+I’m passionate about defending the digital world! I’m currently completing a Master’s in Cyber Security at UNSW, specialising in **threat detection**, **SIEM monitoring**, and **digital forensics**. With hands-on lab experience in tackling security challenges and a focus on real-world solutions, I’m working towards making an impact in SOC operations and incident response.  
 
 ---
 
 ## 💻 Key Skills  
 - 🛡️ **Threat Detection & SIEM**: Experience with log analysis and monitoring tools to identify security risks.  
-- 🔍 **Digital Forensics**: Hands-on work with **FTK Imager** and **Autopsy** to conduct in-depth investigations and evidence collection.  
+- 🔍 **Digital Forensics**: Hands-on lab work with **FTK Imager** and **Autopsy** to conduct in-depth investigations and evidence collection.  
 - 🔒 **Penetration Testing**: Familiar with **Kali Linux**, **Metasploit**, **Nmap**, and conducting vulnerability scans.  
 - ⚙️ **Programming**: Foundational knowledge of **Python**, **C** and **Assembly** for navigating data analysis and security tasks.   
 - 🤝 **Collaboration & Leadership**: Proven ability to work effectively in teams, lead projects, develop training programs and solve complex problems.  
@@ -19,8 +19,8 @@ I’m passionate about defending the digital world! I’m currently completing a
 ---
 
 ## 📜 Certifications in Progress  
-- 🛡️ **Security Blue Team Junior Analyst**: March 2025
-- 🛡️ **Security Blue Team Level 1**: May 2025
+- 🛡️ **Security Blue Team Junior Analyst**: In progress: June 2025
+- 🛡️ **Security Blue Team Level 1**: In progress: July 2025
 ## 📜 Certifications in Future
 - 🔐 **CompTIA Security+**  
 - 🌐 **CompTIA Network+**  
@@ -52,7 +52,13 @@ I’m passionate about defending the digital world! I’m currently completing a
 
 - **Digital Forensics Investigations**: Used **Autopsy** and **FTK Imager** for analyzing file systems, recovering deleted data, and identifying security incidents.  
 - **Kali Linux Penetration Testing**: Conducted vulnerability assessments using **Metasploit**, **Nmap**, and other penetration testing tools.
-- **OS Project Modules via HTB**: Focus on vulnerabilities and artifacts within **Active Directory**, **Windows Event Viewer**, and memory exploits via **Volatility**. 
+- **OS Project Modules via HTB**: Focus on vulnerabilities and artifacts within **Active Directory**, **Windows Event Viewer**, and memory exploits via **Volatility**.
+
+Capstone Project: Security Posture Assessment
+
+Collaborated on a capstone team to perform end-to-end security assessment of four critical business assets using CVSS, MITRE ATT&CK, and STRIDE frameworks; produced executive and technical reports highlighting 23 critical/high vulnerabilities with remediation roadmaps across short-, mid-, and long-term phases.
+
+
 ---
 - Research Case Studies:
   
