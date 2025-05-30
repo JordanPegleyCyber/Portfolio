@@ -1,11 +1,11 @@
 # Jordan Pegley  
-💻 Cyber Security Master’s Student 🛡️ | Aspiring SOC Analyst 🚀  
+💻 Cyber Security Engineering Masters 🛡️ | Aspiring SOC Analyst 🚀  
 🔗 [LinkedIn](https://www.linkedin.com/in/jordan-pegley)  
 
 ---
 
 ## 🤖 About Me  
-I’m passionate about defending the digital world! I’m currently completing a Master’s in Cyber Security at UNSW, specialising in **threat detection**, **SIEM monitoring**, and **digital forensics**. With hands-on lab experience in tackling security challenges and a focus on real-world solutions, I’m working towards making an impact in SOC operations and incident response.  
+I’m passionate about defending the digital world! A recent graduate of a Master’s in Cyber Security at UNSW, specialising in **threat detection**, **SIEM monitoring**, and **digital forensics**. With hands-on lab experience in tackling security challenges and a focus on real-world solutions, I’m working towards making an impact in SOC operations and incident response.  
 
 ---
 
