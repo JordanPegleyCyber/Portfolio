@@ -54,7 +54,7 @@ I’m passionate about defending the digital world! A recent graduate of a Maste
 - **Kali Linux Penetration Testing**: Conducted vulnerability assessments using **Metasploit**, **Nmap**, and other penetration testing tools.
 - **OS Project Modules via HTB**: Focus on vulnerabilities and artifacts within **Active Directory**, **Windows Event Viewer**, and memory exploits via **Volatility**.
 
-Capstone Project: Security Posture Assessment
+[**Capstone Project: Security Posture Assessment**](https://github.com/JordanPegleyCyber/Technical-Security-Assessment-Report)
 
 Collaborated on a capstone team to perform end-to-end security assessment of four critical business assets using CVSS, MITRE ATT&CK, and STRIDE frameworks; produced executive and technical reports highlighting 23 critical/high vulnerabilities with remediation roadmaps across short-, mid-, and long-term phases.
 
